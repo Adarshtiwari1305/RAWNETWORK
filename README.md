@@ -1,6 +1,6 @@
 ## Support & Updates 
 <a href="https://t.me/adarshtiwarimanager"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/shaitaan_bacchaa"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://youtube.com/c/TrickyAbhi"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/com/Adarshtiwari"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
 <h1 align="center"><b>Adarshtiwari-Bot</b></h1>
@@ -14,7 +14,7 @@ OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/Shaitaan_bacchaa"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="https://t.me/Shaitaan_bacchaa"><img src="https://img.shields.io/badge/Piro%20 Adarsh-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
