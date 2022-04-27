@@ -23,6 +23,6 @@ OMFO Gimme a star and follow me
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/adarshtiwarimanager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![Herox](https://telegra.ph/file/87ee4c24743afffcb082e.jpg)](https://telegram.me/aboutez)
+[![Aadriti_fed](https://telegra.ph/file/87ee4c24743afffcb082e.jpg)](https://telegram.me/aboutez)
 
 
