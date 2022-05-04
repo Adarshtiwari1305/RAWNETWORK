@@ -5,11 +5,11 @@
 
 <h1 align="center"><b>Adarshtiwari-Bot</b></h1>
 
-# <p align="center"><a href="https://github.com/Adarshtiwari1305/adarshtiwarimanager"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
+# <p align="center"><a href="https://github.com/Adarshtiwari1305/RAWNETWORK"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
 <p align="center">
     
     
-# Adarshtiwarimanager
+# RAWNETWORK
 OMFO Gimme a star and follow me
     
     
@@ -20,9 +20,9 @@ OMFO Gimme a star and follow me
     
 # Deployment
     
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/adarshtiwarimanager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/RAWNETWORK"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![Aadriti_fed](https://telegra.ph/file/87ee4c24743afffcb082e.jpg)](https://telegram.me/aboutez)
+[![Aadriti_fed](https://telegra.ph/file/87ee4c24743afffcb082e.jpg)](https://telegram.me/Aadriti_fed)
 
 
